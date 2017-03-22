@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(March 21, 2017)
 
 ### Student Name:  
-(First and Last Name)
+(Ayanna Chukes)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+I helped make an application that displays the elements of a recipe’s ingredients and instructions when a person clicks the different headers. The jQuery was used to respond to the users’ requests.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://ayanna0103.github.io/lesson7_jquery/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned what DOM traversals are and how to use them.
+2. I think I know how to do CSS changes but I'm not sure I did it right.
+3. I learned how to do animation within applications.
